@@ -1,0 +1,4 @@
+Links úteis para bootcamp: 
+
+Download GIT: https://git-scm.com/
+Download VSCode: https://code.visualstudio.com/
